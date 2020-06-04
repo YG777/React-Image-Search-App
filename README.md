@@ -1,10 +1,13 @@
-Search form & API 
-https://cdnjs.com/libraries/semantic-ui
+Based on an online tutorial.
+
+- Search form & API with Axios;
+- Semantic-UI: https://cdnjs.com/libraries/;
+- Flexbox Grid and clever grid image size ajusting.
 ____________________________________
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-rct-app).
 
 ## Available Scripts
 
